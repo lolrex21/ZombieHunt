@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434135041198",
+    "project_id": "zombiehunt-94f5d",
+    "storage_bucket": "zombiehunt-94f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434135041198:android:6d7ec186bd927d12c6593f",
+        "android_client_info": {
+          "package_name": "com.pepegames.duckhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434135041198-jusspilreko5e9opdncrc8baoureijj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pepegames.duckhunt",
+            "certificate_hash": "e277be5b12c247762bd1435fd2068acfe96bed6f"
+          }
+        },
+        {
+          "client_id": "434135041198-t2g1ct9cg7o3om5lfq9scu2ci1d6sdg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC843GicIZsSncz0CgV55ArP7mOWydN5es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434135041198-t2g1ct9cg7o3om5lfq9scu2ci1d6sdg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
